@@ -10,10 +10,9 @@
             "email": "kofi@kofikwarteng.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-    "php": "~7.0"
-},
+      "php": ">=7.0.0"
+    },
     "autoload": {
         "psr-4": {
             "SdSmith1981\\LaravelSagepay\\": "src/"
