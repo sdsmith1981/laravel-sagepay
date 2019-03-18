@@ -8,7 +8,7 @@
  * @license   http://www.opensource.org/licenses/mit-license.php
  */
 
-namespace Kofikwarteng\LaravelSagepay;
+namespace SdSmith1981\LaravelSagepay;
 
 /**
  * Class SagePay

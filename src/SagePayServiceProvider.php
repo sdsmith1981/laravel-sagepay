@@ -1,6 +1,6 @@
 <?php
 
-namespace Kofikwarteng\LaravelSagepay;
+namespace SdSmith1981\LaravelSagepay;
 
 use Illuminate\Support\ServiceProvider;
 

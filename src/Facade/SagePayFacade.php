@@ -1,6 +1,6 @@
 <?php
 
-namespace Kofikwarteng\LaravelSagepay\Facade;
+namespace SdSmith1981\LaravelSagepay\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
